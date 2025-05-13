@@ -44,36 +44,6 @@ Input → [Conv2D → ReLU → MaxPool → Dropout] x3 → Flatten → Dense →
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/facial-emotion-recognition-cnn.git
-   cd facial-emotion-recognition-cnn
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run training**
-   ```bash
-   python train.py
-   ```
-
-4. **Evaluate model**
-   ```bash
-   python evaluate.py
-   ```
-
-5. **Make predictions**
-   ```bash
-   python predict.py --image path/to/image.jpg
-   ```
-
----
-
 ## 📈 Results
 
 - **Training Accuracy**: 92%
@@ -91,36 +61,12 @@ Input → [Conv2D → ReLU → MaxPool → Dropout] x3 → Flatten → Dense →
 
 ---
 
-## 📂 Project Structure
-
-```
-.
-├── data/                     # Dataset folder (download separately)
-├── models/                   # Saved model weights
-├── src/
-│   ├── model.py              # CNN architecture
-│   ├── train.py              # Training script
-│   ├── evaluate.py           # Evaluation script
-│   └── predict.py            # For inference
-├── assets/                   # Plots and sample images
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🔮 Future Improvements
 
 - Use data augmentation to improve generalization
 - Add facial landmarks detection for better feature learning
 - Experiment with transfer learning (e.g., VGG16, ResNet)
 - Deploy using Streamlit or Flask as a web app
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
@@ -133,5 +79,5 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ About Me
 
 **Muhammad Farrukh Umair**  
-Associate Software Engineer | AI & Data Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | 📫 [Email](mailto:haris.umair2002@gmail.com)
+Software Engineer | AI & Data Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-farrukh-umair/) | 📫 [Email](mailto:haris.umair2002@gmail.com)
