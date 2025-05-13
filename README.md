@@ -57,7 +57,7 @@ Input → [Conv2D → ReLU → MaxPool → Dropout] x3 → Flatten → Dense →
 | Input Image | Predicted Emotion |
 |-------------|--------------------|
 | ![sample1](assets/im1.PNG) | Happy |
-| ![sample2](assets/im2.PNG) | Sad   |
+| ![sample2](assets/im2.PNG) | Angry   |
 
 ---
 
