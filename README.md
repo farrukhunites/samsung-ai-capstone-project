@@ -80,4 +80,4 @@ This project is licensed under the MIT License.
 
 **Muhammad Farrukh Umair**  
 Software Engineer | AI & Data Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-farrukh-umair/) | 📫 [Email](mailto:haris.umair2002@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-farrukh-umair/) | 📫 Email: haris.umair2002@gmail.com
